@@ -1,11 +1,11 @@
 {
   "development": {
-    "username": "peyqqopl",
-    "password": "Ihl2OPHHbLJs1FH2ypLUdHCnsiIes7mw",
-    "database": "peyqqopl",
-    "host": "arjuna.db.elephantsql.com",
+    "username": "postgres",
+    "password": "GACtmj0viNJubXbzLU1R",
+    "database": "railway",
+    "host": "containers-us-west-20.railway.app",
     "dialect": "postgres",
-    "port": 5432
+    "port": 6621
   },
   "test": {
     "username": "peyqqopl",
